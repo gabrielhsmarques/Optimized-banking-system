@@ -9,12 +9,11 @@ def fun_menu():
     [d]Deposit
     [w]Withdraw 
     [e]Extract
-    [q]Quit
     [cu]Create user
     [ca]Create account
     [g]Get user
     [dl]Delete user
-
+    [q]Quit
     => """
     return input(menu)
 
